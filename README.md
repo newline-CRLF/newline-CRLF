@@ -1,16 +1,26 @@
-## Hi there 👋
+# こんにちは!!
 
-<!--
-**newline-CRLF/newline-CRLF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+どうもこんにちは私はCR-LFです。
+10代の学生です。
+私は人間が大好きです。それと同時に人間が大嫌いですが...
+まあ、そんなことは**どうでも良くて**ここでは私が適当にプログラムした作品を公開しようと思います。
 
-Here are some ideas to get you started:
+# スキル
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|言語|レベル|
+|:--:|:--:|
+|JavaScript|まあまあ!|
+|CSS|まあまあ!|
+|HTML|できるぞ!!|
+|Python|少しなら|
+
+# 趣味
+
+* 東方
+* ボカロ
+* 数学!!
+
+# 目標
+
+CやC++を扱えるようになりたいです‼ いずれはソフトウェア開発をしたいと考えています。
+また私は現在、自然言語処理に興味を持っているのでそちらにも挑戦したいと考えています。
